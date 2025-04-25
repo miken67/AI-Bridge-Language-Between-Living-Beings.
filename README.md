@@ -43,11 +43,10 @@ This is a call to those who code, who research, who explore. This is for:
 Together, we might create systems that help us notice what’s been present all along.
 An Open Invitation to Collaborate
 
-To make this a living conversation, a GitHub repository has been created to host this paper, share early ideas, and open a space for discussion and contribution. This isn’t a polished final theory—it’s a seed. And I’m asking others to help nurture it.
+ This isn’t a polished final theory—it’s a seed. And I’m asking others to help nurture it.
 
 Whether you have data, tools, questions, stories, or concerns—your voice matters.
 
-🔗 Visit the GitHub repository and join the discussion: [link to be added]
 A Final Note
 
 I don’t pretend to have answers, but I believe asking the right questions can bring us closer to understanding. If AI can help us hear the voices of plants, animals, fungi, and the living world… maybe it can also help us remember our place within it.
